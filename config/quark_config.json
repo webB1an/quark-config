@@ -1,0 +1,348 @@
+{
+    "cookie": [
+        "_UP_A4A_11_=wb963121d753453bbcc28ec51b860eab; b-user-id=063185af-f949-6923-ecab-60f076ab6ccc; CwsSessionId=4dafbafa-8d92-4b30-aac1-8beb3c9d5acb; _UP_D_=pc; __pus=2791d992bed57a69705fd4e36d55889cAAQ0HE1LcxupqmM4e0B7f0QrJAgP3GHH+d3VSMewthbAvUyegY43je8eQGjZEaZSlhuYGLzKcwwT7PCaqEownXgV; __kp=3eb81140-94fa-11ef-aba1-7b16f26432b0; __kps=AAQIf68dTc9ibFeL/QU2uURu; __ktd=/A5pseiW0XNTgsYjgqM36g==; __uid=AAQIf68dTc9ibFeL/QU2uURu; kkpcwpea=a=a&uc_param_str=einibicppfmivefrlantcunwsssvjbktchnnsnddds&instance=kkpcwp&pf=145&self_service=true&wxUid=AAQIf68dTc9ibFeL%2FQU2uURu&plain_utdid=Zr78+qqEoW0DADAFiE3%2FudOx&system_ver=Darwin_10.15.7&channel_no=pckk%40other_ch&ve=3.13.0&sv=release; xlly_s=1; __puus=8cdf68cd6206d7b13a535b2ddc7ab6a3AAS2ycZT/419kxtouGDn6mhs3aFGvRciE82/VOopm6Z0atcPo+BJx2PoXbMp+fxmKCTKUTWEPxMhyqqWYbBWvyD2q+Cx/uonTKnvLm/MH1AiRbk2P279fbWpA389c4M0feAg2M0q8Ns2Cs7kvW67HJfnERjdxU6UCWyCllF9CRR3kS3H31j++hrEUWmdVwRVzGNyGvk0TpVhMFdg8mdTKKCO; isg=BDMz9MXxUPicZR2x9TjuatUgwjFdaMcqBONd1OXQ1tKJ5FKGbTlOeol9mhQKxB8i; tfstk=fdAt3YDoh2UOKszLp-Mhn1KLe2ghHILwvh87iijghHKpunBchObGMtt1xCXc1GxdDa_Pl-1juiIv2adD11tmMiTPY5xmQtVY7BK8i5mZQENAisioqbck7R5VG00CJSuUQZQ15jXfcfm_TDooqbcnCy1xX0xiHecUpZSC5Nw1G2CCrZ5bfstfA9_5rl1XcsgdAaQ8hPw1CXTCYZ1fcn1jgaGVAlsbMKopUWZ871NbGCGVBgIYnSFAgN69GFspkEddWOI5KbhwnQLW5Q7vg4wADnJ6jw-xwDCWUHdAFshYT1YJdhBpBmFdLpTyG9pE288ylUJfpIEsS3tBHn_eLmeA2KTMUBX3lJ66Uhv5pBmTTg9BJEXpLqyGmL7X0TRm45S6lURyE_hT4NpBy6IPUQA-8urlOGysJ2e43O_E5NEwDLG-DVQdqVn43-WnYwIoJc243O_FJg0tS-yVKD5.."
+    ],
+    "push_config": {
+        "QUARK_SIGN_NOTIFY": true,
+        "其他推送渠道//此项可删": "配置方法同青龙",
+        "CONSOLE": true
+    },
+    "emby": {
+        "url": "",
+        "apikey": ""
+    },
+    "tasklist": [
+        {
+            "taskname": "b站Wallpaper壁纸动态",
+            "shareurl": "https://pan.quark.cn/s/0e81a28ae6e4",
+            "savepath": "/壁纸/壁纸资源/b站Wallpaper壁纸动态/wallpaper动态壁纸",
+            "pattern": "",
+            "replace": "",
+            "enddate": "2099-12-01",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": ".",
+            "startfid": ""
+        },
+        {
+            "taskname": "星辰壁纸库",
+            "shareurl": "https://pan.quark.cn/s/7c22105d5047",
+            "savepath": "/壁纸/壁纸资源/星辰壁纸库",
+            "pattern": "",
+            "replace": "",
+            "enddate": "2099-12-01",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "b站Wallpaper午夜紫",
+            "shareurl": "https://pan.quark.cn/s/68fd232c5411",
+            "savepath": "/壁纸/壁纸资源/b站Wallpaper午夜紫/动态壁纸(先保存后下载)",
+            "pattern": "",
+            "replace": "",
+            "enddate": "2099-12-01",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "b 站Wallpaper推荐君星野爱壁纸库",
+            "shareurl": "https://pan.quark.cn/s/12527250a89d",
+            "savepath": "/壁纸/壁纸资源/b站wallpaper推荐君/星野爱壁纸库",
+            "pattern": "",
+            "replace": "",
+            "enddate": "2099-12-01",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "抖音 Wallpaper动态壁纸",
+            "shareurl": "https://pan.quark.cn/s/11ae7584749d",
+            "savepath": "/壁纸/壁纸资源/抖音Wallpaper动态壁纸/【动态壁纸库】",
+            "pattern": "",
+            "replace": "",
+            "enddate": "2099-12-01",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "b站Wallpaper壁纸小屋",
+            "shareurl": "https://pan.quark.cn/s/273d5a17bd1c",
+            "savepath": "/壁纸/壁纸资源/b站Wallpaper壁纸小屋/Wallpaper壁纸小屋（别忘了保存哦，以后会一直持续更新的）",
+            "pattern": "",
+            "replace": "",
+            "enddate": "2099-12-01",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "b站Wallpaper壁纸推荐-零",
+            "shareurl": "https://pan.quark.cn/s/eb3a86d73bdb",
+            "savepath": "/壁纸/壁纸资源/b站Wallpaper壁纸推荐-零",
+            "pattern": "",
+            "replace": "",
+            "enddate": "2099-12-01",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "暗杀女仆冥土小姐",
+            "shareurl": "https://pan.quark.cn/s/0d661071ba04",
+            "savepath": "/动漫/暗杀女仆冥土小姐",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "B站Wallpaper壁纸推荐",
+            "shareurl": "https://pan.quark.cn/s/574b741b3399",
+            "savepath": "/壁纸/壁纸资源/B站Wallpaper壁纸推荐",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "仙.逆（2023）",
+            "shareurl": "https://pan.quark.cn/s/5de2ff33b157",
+            "savepath": "/动漫/仙.逆（2023）",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "b 站wallpaper壁纸",
+            "shareurl": "https://pan.quark.cn/s/674cf8772d96",
+            "savepath": "/壁纸/壁纸资源/b站wallpaper今日推荐/wallpaper壁纸",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "铁蛋贰壁纸库",
+            "shareurl": "https://pan.quark.cn/s/8d944c181d98",
+            "savepath": "/壁纸/壁纸资源/b站铁蛋/铁蛋贰壁纸库",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "Wallpaperengine 壁纸",
+            "shareurl": "https://pan.quark.cn/s/eb3a86d73bdb",
+            "savepath": "/壁纸/壁纸资源/魁梧蝴蝶Wallpaperengine 壁纸/Wallpaperengine 壁纸",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "安卓游戏合集",
+            "shareurl": "https://pan.quark.cn/s/486d13fe36e2",
+            "savepath": "/游戏资源/安卓游戏资源/全网最全破解游戏合集",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "startfid": "."
+        },
+        {
+            "taskname": "C 刺客伍六七 第五季 记忆碎片",
+            "shareurl": "https://pan.quark.cn/s/0c93c32515c9",
+            "savepath": "/动漫/C 刺客伍六七 第五季 记忆碎片",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        },
+        {
+            "taskname": "剑&来（2024）",
+            "shareurl": "https://pan.quark.cn/s/dbf62915e96b",
+            "savepath": "/动漫/剑&来（2024）",
+            "pattern": "",
+            "replace": "",
+            "enddate": "",
+            "emby_id": "",
+            "ignore_extension": false,
+            "runweek": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "update_subdir": "."
+        }
+    ],
+    "crontab": "0 16 * * *",
+    "magic_regex": {
+        "$TV": {
+            "pattern": ".*?(S\\d{1,2}E)?P?(\\d{1,3}).*?\\.(mp4|mkv)",
+            "replace": "\\1\\2.\\3"
+        }
+    },
+    "webui": {
+        "username": "admin",
+        "password": "admin123"
+    }
+}
